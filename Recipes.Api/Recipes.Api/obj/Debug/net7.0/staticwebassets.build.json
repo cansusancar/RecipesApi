@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gJxPDr5LZ31K3mc40y3XH8QQj+qIJTd3pjRyvRKI+Gs=",
+  "Source": "Recipes.Api",
+  "BasePath": "_content/Recipes.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
